@@ -1,7 +1,7 @@
 # Estructuras principales III. Declaración variables Eclipse 
 
-![image](https://github.com/rolando1803/Java/assets/55965131/1a9e9202-0a6d-431a-9663-a67f3415731b)
 ![image](https://github.com/rolando1803/Java/assets/55965131/18154ad1-0207-4971-98e4-cfb78f76e275)
+![image](https://github.com/rolando1803/Java/assets/55965131/1a9e9202-0a6d-431a-9663-a67f3415731b)
 ![image](https://github.com/rolando1803/Java/assets/55965131/16589abb-9da3-4c79-8c67-b9a88565e703)
 ![image](https://github.com/rolando1803/Java/assets/55965131/69abea57-59c1-4cf4-a03d-29f5fb425866)
 ![image](https://github.com/rolando1803/Java/assets/55965131/01758253-d3af-4faa-a0bc-ed4161e76f25)
